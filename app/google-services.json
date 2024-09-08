@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403524361230",
+    "project_id": "e-wallet2-0",
+    "storage_bucket": "e-wallet2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403524361230:android:b35bd5e52ad353567a705f",
+        "android_client_info": {
+          "package_name": "com.example.e_wallet20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMi1BgbEVuyPXNSO2AWOhmQsACPiC3_XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
